@@ -1,6 +1,6 @@
 1:HL["https://lamobilery.github.io/emile-magique/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["https://lamobilery.github.io/emile-magique/_next/static/css/28a595dc426a4c44.css","style",{"crossOrigin":""}]
-0:["uzO4WnHxwEdk5_hpLKQxy",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://lamobilery.github.io/emile-magique/_next/static/css/28a595dc426a4c44.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["MhgXNrRHzSZZIvKAZHzLA",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://lamobilery.github.io/emile-magique/_next/static/css/28a595dc426a4c44.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:HL["https://lamobilery.github.io/emile-magique/_next/static/css/67a233dec2c9eccb.css","style",{"crossOrigin":""}]
 6:I[6954,[],""]
 7:I[7264,[],""]
