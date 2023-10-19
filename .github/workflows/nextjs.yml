@@ -31,4 +31,5 @@ jobs:
           build_dir: emile-magique/out/
           keep_history: true
           jekyll: false # Solve website 404
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.FRONT_GITHUB_TOKEN }}
