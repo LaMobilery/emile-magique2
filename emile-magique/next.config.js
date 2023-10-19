@@ -5,10 +5,12 @@ const isProd = process.env.NODE_ENV === "production";
 const nextConfig = {
   output: "export",
   assetPrefix: isProd ? "https://lamobilery.github.io/emile-magique/" : undefined,
-  images: {
-    loader: "custom",
-    loaderFile: "./loader.ts",
-  },
+  images: isProd
+    ? {
+        loader: "custom",
+        loaderFile: "./src/app/loader.ts",
+      }
+    : undefined,
 };
 
 module.exports = nextConfig;
