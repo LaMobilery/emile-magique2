@@ -4,10 +4,10 @@ const isProd = process.env.NODE_ENV === "production";
 
 const nextConfig = {
   output: "export",
-  assetPrefix: isProd ? "https://lamobilery.github.io/emile-magique/" : undefined,
-  images: {
-    path: "/emile-magique/",
+  env: {
+    PUBLIC_URL: "https://lamobilery.github.io/emile-magique/",
   },
+  assetPrefix: isProd ? "https://lamobilery.github.io/emile-magique/" : undefined,
 };
 
 module.exports = nextConfig;
