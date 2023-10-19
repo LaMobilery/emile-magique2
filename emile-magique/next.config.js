@@ -6,7 +6,7 @@ const nextConfig = {
   output: "export",
   assetPrefix: isProd ? "https://lamobilery.github.io/emile-magique/" : undefined,
   images: {
-    domains: ["https://lamobilery.github.io/emile-magique/"],
+    path: "/emile-magique/",
   },
 };
 
